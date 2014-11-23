@@ -1,0 +1,22 @@
+{
+  "name": "vendors",
+  "version": "1.0",
+  "homepage": "https://github.com/erojasr/login",
+  "authors": [
+    "Eduardo Rojas <eduardo.utc@gmail.com>"
+  ],
+  "description": "none",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.1"
+  }
+}
